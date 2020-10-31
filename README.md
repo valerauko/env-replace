@@ -10,6 +10,8 @@ If there's an existing application you don't control, but you need to write conf
 
 ## Usage
 
+Use the docker image `valerauko/env-replace`.
+
 ### Plain Docker
 
 Having some files in the `./in` folder that use the environment variables `$A` and `$B`, this will expand and output into the `./out` folder.
