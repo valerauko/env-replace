@@ -1,5 +1,3 @@
-#!/usr/bin/env bash
-
 mkdir -pv "${DESTINATION:-.}";
 
 for file in ./*; do
